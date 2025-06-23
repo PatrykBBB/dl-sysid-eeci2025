@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+pandas
+matplotlib
+notebook
+tqdm
+torch==2.7.0
+torchsummary
+nonlinear_benchmarks
+ipympl
