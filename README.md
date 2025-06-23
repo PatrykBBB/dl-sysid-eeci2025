@@ -14,7 +14,7 @@ Jupyter notebooks related to the exercise sessions can be found in the folder [e
 # Software requirements 
 
 We suggest creating a conda virtual environment with Python and all the [required packages](requirements.txt) for the course. Follow the [official instructions](https://www.anaconda.com/docs/getting-started/anaconda/install) to install Anaconda on your system.
-Then, use the following commands:
+Then, use the following commands in your terminal:
 
 ``
 conda create --name eeci python=3.12
@@ -22,7 +22,7 @@ conda activate eeci
 pip install -r requirements.txt
 ``
 
-to create the virtual environment. Activate the environment with the commands:
+to create the virtual environment. Activate the environment by typing in your terminal:
 
 ``
 conda activate eeci
