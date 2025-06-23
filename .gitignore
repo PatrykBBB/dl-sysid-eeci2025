@@ -186,3 +186,5 @@ cython_debug/
 ~$*.xlsx
 ~$*.pptx
 *.tmp
+
+Program.docx
