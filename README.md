@@ -13,7 +13,7 @@ Jupyter notebooks related to the exercise sessions can be found in the folder [e
 
 # Software requirements 
 
-We suggest creating a conda virtual environment with Python and all the required packages for the course. Follow the [official instructions](https://www.anaconda.com/docs/getting-started/anaconda/install) to install Anaconda on your system.
+We suggest creating a conda virtual environment with Python and all the [required packages](requirements.txt) for the course. Follow the [official instructions](https://www.anaconda.com/docs/getting-started/anaconda/install) to install Anaconda on your system.
 Then, use the following commands:
 
 ``
