@@ -4,6 +4,7 @@ pandas
 matplotlib
 notebook
 tqdm
+dynonet
 torch==2.7.0
 torchsummary
 nonlinear_benchmarks
