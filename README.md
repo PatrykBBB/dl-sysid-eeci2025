@@ -1,18 +1,17 @@
 # Deep Learning for System Identification 
-## Milano, June 30 - July 4, 2025
-This repository contains the material for the EECI course on *Deep Learning for System Identification*
+This repository contains the material for the EECI course Deep Learning for System Identification, held in Milan from June 30 to July 4, 2025.
 
-# Program
+## Program
 The Program of the course can be found in the document [Program.pdf](Program.pdf)
 
-# Lessons
+## Lessons
 Slides of the lessons can be found in the folder [lessons](lessons)
 
-# Exercises
+## Exercises
 
 Jupyter notebooks related to the exercise sessions can be found in the folder [exercises](exercises)
 
-# Software Requirements
+## Software Requirements
 
 We recommend setting up a **Conda virtual environment** with Python and the required packages for this course.
 
