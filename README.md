@@ -1,4 +1,5 @@
-# Deep Learning for System Identification - Milano, June 30 - July 4, 2025
+# Deep Learning for System Identification 
+## Milano, June 30 - July 4, 2025
 This repository contains the material for the EECI course on *Deep Learning for System Identification*
 
 # Program
