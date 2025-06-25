@@ -16,7 +16,7 @@ Jupyter notebooks related to the exercise sessions can be found in the folder [e
 We recommend setting up a Conda virtual environment with Python and the required packages for this course. 
 
 First, follow the official [Anaconda installation guide](https://www.anaconda.com/docs/getting-started/anaconda/install) for your operating system. 
-Once Anaconda is installed, open a terminal and run the following commands:
+Once Anaconda is installed, navigate to the project's root directory, open a terminal and run the following commands:
 
 ```bash
 conda create --name eeci python=3.12
