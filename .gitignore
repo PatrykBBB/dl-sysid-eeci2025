@@ -187,4 +187,5 @@ cython_debug/
 ~$*.pptx
 *.tmp
 
-Program.docx
+private/*
+
